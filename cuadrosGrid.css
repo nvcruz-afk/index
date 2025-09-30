@@ -1,0 +1,86 @@
+.Contenedor {
+    width: auto;
+    height: auto;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+
+    border: 1px solid black;
+}
+
+.caja {
+    width: auto;
+    height: 200px;
+    border: 1px solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: bolder;
+    font-family: sans-serif;
+
+    /* Opcional y más diseño */
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 5px 5px rgb(117, 110, 110);
+}
+
+.uno {
+    background-color: rgb(39, 38, 124);
+    grid-column: 1/3;
+}
+
+.dos {
+    height: auto;
+    background-color: rgb(25, 151, 151);
+    grid-column: 3/4;
+    grid-row: 1/3;
+}
+
+.tres {
+    background-color: rgb(80, 12, 40);
+}
+
+.cuatro {
+    background-color: rgb(21, 88, 21);
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 5px 5px rgb(117, 110, 110);
+    nab af¿sdbj svdfjhh 
+}
+
+.cinco {
+    height: auto;
+    background-color: rgb(121, 14, 119);
+    grid-column: 1/3;
+    grid-row: 3/5;
+}
+
+.diez {
+    border: none;
+    box-shadow: none;
+}
+
+
+
+
+
+
+
+< noseeeeeee
+yo solo quiero estar bien, la extrañoooooooooooooo, fuckkkk, cuando yo extrañar a alguien??
+watajak, veniste a cambiar muchas cosas, a mover muchos sentimientos que desde hace mucho no estan, yo solo quiero que estemos bien 
+no como pareja, sino como personas, la extraño y verte y no habalrte me duele más, no se que vaya a pasar 
+pero solo quedan dos semanas de esto y luego no se si te volveré a ver, yo se que maybe soy un poco complicada, 
+pero bro watajak, te quise como a nadie, nunca habia sentido esto, la intensidad con lo que lo hice, solo quiero que sepas
+q me estas doliendo mas de lo que imaginas, mas de lo que crees, mas de lo que puedo demostrar.
+Yo se que probablemente aca trato de ignorarte, pero no es q quiera, solo no sé como actuar, y tambien se que muchos 
+factores no lo hacen tan facil, se que la gente arruina todo, y q no es justo para ninguna de las dos, se que la cague, pero no me 
+arrepiento de nada de lo que pudo haber pasado, de hecho, estoy feliz pq ppor lo menos nos pudimos tener un rato, pero me gustaria 
+que estuvieras mas tiempo en mi vida, no quiero que te vayas, te extraño, y solo quiero estar contigo, quiero contarte lo que me ha pasado.
+Quiero que me cuentes lo que te ha pasado, solo quiero saber de ti, otra vez.
+Dios vale, no saber cuanto he pensado en todo, en cuando soliamos escaparnos de clases, cuando ibamos a la tienda, a los 
+baños, no sé todo, me hiciste mejor.
+Me daba miedo que pasara esto, pq cada día que pasabate empezaba a querer más, y más, y más y más. Hasta el punto 
